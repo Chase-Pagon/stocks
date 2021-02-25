@@ -1,0 +1,99 @@
+,TransactionDate,ReportedDateTime,Company,Symbol,InsiderRelationship,SharesTraded,AveragePrice,TotalAmount,SharesOwned,Filing
+1,2020-11-24Sale,2020-11-274:05 pm,Schrodinger Inc.,SDGR,BILL & MELINDA GATES FOUNDATION TRUST10% Owner,"2,000,000",$63.5,"$127,000,000","6,981,664(Direct)",View
+2,2020-11-25Sale,2020-11-274:05 pm,Liquidia Technologies Inc,LQDA,Eshelman Ventures LLCESHELMAN FREDRIC N10% Owner,"17,364",$3.13,"$54,349","6,570,569(IndirectDirect)",View
+3,2020-11-24Sale,2020-11-274:06 pm,AUTONATION Inc,AN,GRUSKY ROBERT RDirector,"5,000",$65,"$325,000","44,721(Direct)",View
+4,2020-11-24Sale,2020-11-274:07 pm,AUTONATION Inc,AN,CANNON MARC GCEO,"11,948",$65,"$776,620","15,848(Direct)",View
+5,2020-11-24Sale,2020-11-274:09 pm,AUTONATION Inc,AN,EDMUNDS C COLEMANVP,"15,378",$64.46,"$991,266","20,136(Direct)",View
+6,2020-11-24Sale,2020-11-274:09 pm,SITIME Corp,SITM,VASHIST RAJESHCEO,"18,209",$84.01,"$1,529,772","697,091(Direct)",View
+7,2020-11-24Sale,2020-11-274:10 pm,Hillenbrand Inc.,HI,TRAINOR CHRISTOPHER HVP,"4,993",$38.02,"$189,834","35,245(Direct)",View
+8,2020-11-24Sale,2020-11-274:10 pm,Hillenbrand Inc.,HI,Jones Michael M.VP,"8,000",$38.89,"$311,120","22,482(Direct)",View
+9,2020-11-24Sale,2020-11-274:10 pm,Hillenbrand Inc.,HI,FARRELL NICHOLAS RSee Remarks,"1,437",$39,"$56,043","9,523(Direct)",View
+10,2020-11-25Sale,2020-11-274:12 pm,OVERSTOCK.COM INC,OSTK,Nielsen David J.President,"1,300",$68.13,"$88,564","6,823(IndirectDirect)",View
+11,2020-11-24Sale,2020-11-274:13 pm,GRAFTECH INTERNATIONAL LTD,EAF,BCP GP LtdBROOKFIELD ASSET MANAGEMENT IncBrookfield Capital Partners Ltd.BPE IV (Non-Cdn)BCP IV GrafTech Holdings L.P.Brookfield Business Partners L.P.Brookfield Private Equity Group Holdings LPBrookfield Private Equity Inc.Brookfield Private Equity Holdings LLCBrookfield US Inc.Director10% Owner,"1,020,842",$8.0427,"$8,210,361","160,599,328(Indirect)",View
+12,2020-11-24Sale,2020-11-274:18 pm,GRAFTECH INTERNATIONAL LTD,EAF,BCP GP LtdBrookfield Private Funds Holdings Inc.Brookfield BBP Canadian GP L.P.Brookfield Business L.P.Brookfield Business Partners LtdBCP IV (US Plan) LPBCP IV (UK Plan) LPBCP IV (Cdn Plan) LPBCP IV Bermuda Investor LPDirector10% Owner,"1,020,842",$8.0427,"$8,210,361","160,599,328(Indirect)",View
+13,2020-11-24Sale,2020-11-274:20 pm,SITIME Corp,SITM,CHADWICK ARTHUR DCFO,"3,128",$83.35,"$260,708","131,702(Direct)",View
+14,2020-11-24Sale,2020-11-274:20 pm,GRAFTECH INTERNATIONAL LTD,EAF,BCP GP LtdBrookfield BBP (Canada) L.P.Brookfield BBP Canada Holdings Inc.Brookfield CanGP LtdDirector10% Owner,"1,020,842",$8.0427,"$8,210,361","160,599,328(Indirect)",View
+15,2020-11-24Sale,2020-11-274:26 pm,GLOBUS MEDICAL INC,GMED,Davidar David DDirector,"42,000",$60,"$2,520,000","205,967(IndirectDirect)",View
+16,2020-11-25Sale,2020-11-274:27 pm,BlackRock Inc.,BLK,Wiedman MarkSenior Managing Director,290,$698.71,"$202,626","9,319(Direct)",View
+17,2020-11-24Sale,2020-11-274:27 pm,MASTEC INC,MTZ,Campbell C RobertDirector,"5,000",$59.34,"$296,714","65,489(Direct)",View
+18,2020-11-24Sale,2020-11-274:28 pm,SITIME Corp,SITM,Sevalia Piyush BVP,"2,517",$82.85,"$208,546","124,701(Direct)",View
+19,2020-11-25Sale,2020-11-274:34 pm,ASPEN AEROGELS INC,ASPN,Whitaker Corby CVP,"73,821",$14.45,"$1,066,483","113,951(Direct)",View
+20,2020-11-24Sale,2020-11-274:34 pm,CATHAY GENERAL BANCORP,CATY,WONG IRWINCAO,"8,101",$31,"$251,131","42,754(IndirectDirect)",View
+21,2020-11-24Sale,2020-11-274:38 pm,SITIME Corp,SITM,Bonnot LionelSee Remarks,"2,489",$83.78,"$208,516","122,422(Direct)",View
+22,2020-11-24Sale,2020-11-274:38 pm,QUEST DIAGNOSTICS INC,DGX,WILENSKY GAIL RDirector,"6,111",$126.02,"$770,120","16,482(IndirectDirect)",View
+23,2020-11-24Sale,2020-11-274:39 pm,KORN FERRY,KFY,SHAHEEN GEORGE TDirector,"13,650",$40.84,"$557,496","42,680(Direct)",View
+24,2020-11-24Sale,2020-11-274:43 pm,Broadcom Inc.,AVGO,TAN HOCK ECEO,"78,125",$390.2,"$30,484,140","232,602(Direct)",View
+25,2020-11-25Sale,2020-11-274:47 pm,CRH Medical Corp,CRHM,Bear RichardCFO,"15,000",$2.78,"$41,700","338,000(Direct)",View
+26,2020-11-24Sale,2020-11-274:49 pm,U.S. CONCRETE Inc,USCR,SANDBROOK WILLIAM JDirector,"10,000",$38.15,"$381,500","397,084(IndirectDirect)",View
+27,2020-11-24Sale,2020-11-275:00 pm,Ladder Capital Corp,LADR,McCormack PamelaPresident,"100,000",$9.501,"$950,100","493,985(IndirectDirect)",View
+28,2020-11-24Sale,2020-11-275:00 pm,Fastly Inc.,FSLY,Luongo PaulGeneral Counsel,"7,775",$81.22,"$631,507","251,007(Direct)",View
+29,2020-11-24Sale,2020-11-275:01 pm,Ladder Capital Corp,LADR,Porcella Kelly AmandaCAO,"5,000",$9.501,"$47,505","58,814(Direct)",View
+30,2020-11-24Sale,2020-11-275:01 pm,Slack Technologies Inc.,WORK,Henderson CalCTO,"3,000",$30.5,"$91,485","96,155(IndirectDirect)",View
+31,2020-11-24Sale,2020-11-275:01 pm,Interactive Brokers Group Inc.,IBKR,Peterffy ThomasChairman,"28,800",$52.68,"$1,517,328","9,741,111(Direct)",View
+32,2020-11-24Sale,2020-11-275:04 pm,STARWOOD PROPERTY TRUST Inc,STWD,Sossen Andrew JayCOO,"12,500",$19.21,"$240,145","207,613(Direct)",View
+33,2020-11-24Sale,2020-11-275:05 pm,DANA INC,DAN,Kellett James DCAO,"1,800",$17.98,"$32,357","2,755(Direct)",View
+34,2020-10-05Sale,2020-11-275:05 pm,Invitae Corp,NVTA,WERNER ROBERT F.CAO,"2,427",$48.92,"$118,718","58,398(Direct)",View
+35,2020-11-25Sale,2020-11-275:09 pm,STARBUCKS CORP,SBUX,Ramo Joshua CooperDirector,"2,925",$98.28,"$287,469","25,200(Direct)",View
+36,2020-11-25Sale,2020-11-275:10 pm,American Cannabis Company Inc.,AMMJ,Hollister Corey James Ariel10% Owner,"15,255",$0.0789,"$1,204","9,104,158(Direct)",View
+37,2020-11-24Sale,2020-11-275:12 pm,HCA Healthcare Inc.,HCA,Reiner Deborah MVP,"1,266",$155,"$196,230","5,484(Direct)",View
+38,2020-11-25Sale,2020-11-275:14 pm,BEST BUY CO INC,BBY,Bilunas Matthew MCFO,"4,120",$115.85,"$477,318","21,288(Direct)",View
+39,2020-11-24Sale,2020-11-275:16 pm,KKR Real Estate Finance Trust Inc.,KREF,KKR Group Partnership L.P.ROBERTS GEORGE RKRAVIS HENRY RKKR Management LLPKKR & Co. Inc.KKR Group Holdings Corp.10% Owner,"108,158",$18.51,"$2,001,932","1,636,067(Indirect)",View
+40,2020-11-24Sale,2020-11-275:17 pm,KEYCORP,KEY,Evans Trina MDirector Corporate Center,"15,861",$16.51,"$261,865","83,620(Direct)",View
+41,2020-11-24Sale,2020-11-275:23 pm,KKR Real Estate Finance Trust Inc.,KREF,Tactical Value SPN-KREF Holdings L.P.Tactical Value SPN-SPV GP LLCKKR Tactical Value SPN L.P.KKR Associates TV SPN L.P.KKR TV SPN GP Ltd10% Owner,"108,158",$18.51,"$2,001,932","1,636,067(Indirect)",View
+42,2020-11-24Sale,2020-11-275:27 pm,HighPoint Resources Corp,HPR,Wonstolen Kenneth A.VP,11,$8.2203,$90,11(IndirectDirect),View
+43,2020-11-10Sale,2020-11-275:29 pm,JONES SODA CO,JSDA,Heavenly RX Ltd.10% Owner,"2,000,000",$0.0175,"$35,000","13,000,000(Direct)",View
+44,2020-11-25Sale,2020-11-275:35 pm,United Airlines Holdings Inc.,UAL,Gebo KateVP,"5,870",$45.46,"$266,865","8,602(Indirect)",View
+45,2020-11-25Sale,2020-11-275:39 pm,ABERCROMBIE & FITCH CO,ANF,PERRIN CHARLES RDirector,"20,000",$22.66,"$453,138","41,141(Direct)",View
+46,2020-11-25Sale,2020-11-275:43 pm,HALOZYME THERAPEUTICS Inc,HALO,Kelley Kenneth JDirector,"19,671",$41.37,"$813,850","266,711(Direct)",View
+47,2020-11-24Sale,2020-11-275:47 pm,SYSCO CORP,SYY,PELTZ NELSONTRIAN FUND MANAGEMENT L.P.Director,"1,229,212",$72.31,"$88,881,716","21,393,928(IndirectDirect)",View
+48,2020-11-24Sale,2020-11-275:48 pm,SYSCO CORP,SYY,Frank Joshua D.TRIAN FUND MANAGEMENT L.P.Director,"1,229,212",$72.31,"$88,881,716","21,393,928(IndirectDirect)",View
+49,2020-11-24Sale,2020-11-275:55 pm,Digimarc CORP,DMRC,DAVIS BRUCE LCEOChairman,"59,501",$41.3,"$2,457,415","54,729(Direct)",View
+50,2020-11-25Sale,2020-11-275:56 pm,FEDERAL AGRICULTURAL MORTGAGE CORP,AGM,ZIONS BANCORPORATION NATIONAL ASSOCIATION10% Owner,"15,424",$69.01,"$1,064,440","450,000(Direct)",View
+51,2020-11-24Sale,2020-11-276:02 pm,PLEXUS CORP,PLXS,Darroch RonnieVP,"2,754",$77.76,"$214,160","7,361(Direct)",View
+52,2020-11-24Sale,2020-11-276:02 pm,Iridium Communications Inc.,IRDM,DESCH MATTHEW JCEO,"6,229",$32.91,"$204,996","851,233(Direct)",View
+53,2020-11-24Sale,2020-11-276:03 pm,PLEXUS CORP,PLXS,FOATE DEAN AChairman,"7,500",$77.89,"$584,180","113,113(IndirectDirect)",View
+54,2020-11-24Sale,2020-11-276:03 pm,PLEXUS CORP,PLXS,Kelsey Todd P.CEO,"1,000",$78.04,"$78,040","142,069(Direct)",View
+55,2020-11-24Sale,2020-11-276:04 pm,PLEXUS CORP,PLXS,Lim Yong JinRegional Pres - Plxs Asia Pac.,"20,000",$77.89,"$1,557,758","62,814(Direct)",View
+56,2020-11-24Sale,2020-11-276:04 pm,PLEXUS CORP,PLXS,Ninivaggi Angelo Michael JrCAO,"2,738",$78.2,"$214,106","24,549(IndirectDirect)",View
+57,2020-11-24Sale,2020-11-276:19 pm,ALLIANCE DATA SYSTEMS CORP,ADS,Chesnut John JeffreyVP,"1,000",$75,"$75,000","10,951(Direct)",View
+58,2020-11-25Sale,2020-11-276:41 pm,SERVICE CORP INTERNATIONAL,SCI,RYAN THOMAS LCEOChairman,"10,851",$50.06,"$543,200","1,133,308(IndirectDirect)",View
+59,2020-11-24Sale,2020-11-277:21 pm,VMWARE Inc,VMW,RAMASWAMI RAJIVCOO,"2,490",$150,"$373,500","44,572(IndirectDirect)",View
+60,2020-11-25Sale,2020-11-277:26 pm,YETI Holdings Inc.,YETI,Seiders Roy JRJS Ice L.P.Director,"38,149",$64.07,"$2,444,057","1,661,851(Indirect)",View
+61,2020-11-27Sale,2020-11-277:53 pm,SOUTHERN COPPER CORP,SCCO,VELASCO GERMAN LARREA MOTAChairman,"39,298",$60.81,"$2,389,711","2,122,966(Direct)",View
+62,2020-11-24Sale,2020-11-278:35 pm,PATRICK INDUSTRIES INC,PATK,Ellis Kip BCOO,"2,000",$66.95,"$133,900","82,646(Direct)",View
+63,2020-11-27Sale,2020-11-279:00 pm,Intellia Therapeutics Inc.,NTLA,LEONARD JOHN MCEO,"35,000",$38.57,"$1,350,000","467,352(IndirectDirect)",View
+64,2020-11-24Sale,2020-11-279:12 pm,DIGI INTERNATIONAL INC,DGII,Sampsell David H.VP,"1,287",$17,"$21,879","66,946(Direct)",View
+65,2020-11-25Sale,2020-11-279:12 pm,WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP,WAB,Faiveley ErwanDirector,"25,000",$74.47,"$1,861,810","5,785,561(IndirectDirect)",View
+66,2020-11-24Sale,2020-11-3006:12 am,Hanesbrands Inc.,HBI,Faircloth Michael E.Group Pres Global Ops,"2,324",$14.73,"$34,223","354,585(Direct)",View
+67,2020-11-27Sale,2020-11-3008:02 am,BOSTON BEER CO INC,SAM,KOCH C JAMESChairman10% Owner,"2,500",$900.01,"$2,250,025","215,421(IndirectDirect)",View
+68,2020-11-25Sale,2020-11-3008:29 am,PERDOCEO EDUCATION Corp,PRDO,NELSON TODD SCEO,"70,745",$11.32,"$800,833","841,508(Direct)",View
+69,2020-11-25Sale,2020-11-3008:48 am,ZEBRA TECHNOLOGIES CORP,ZBRA,Heel JoachimVP,"3,000",$371.13,"$1,113,390","30,071(Direct)",View
+70,2020-11-25Sale,2020-11-3008:56 am,ROCKWELL AUTOMATION INC,ROK,Donato ThomasVP,"1,500",$255,"$382,500",969(Direct),View
+71,2020-11-27Sale,2020-11-3009:02 am,WORLD ACCEPTANCE CORP,WRLD,McIntyre ScottVP,259,$117.56,"$30,448","15,999(Direct)",View
+72,2020-11-25Sale,2020-11-3009:18 am,CARTERS INC,CRI,Pivar BenCIO,620,$94.13,"$58,361","4,645(Direct)",View
+73,2020-11-24Sale,2020-11-3009:26 am,Oaktree Specialty Lending Corp,OCSL,TANNENBAUM LEONARD M10% Owner,"357,621",$5.5264,"$1,976,351","16,662,986(IndirectDirect)",View
+74,2020-11-25Sale,2020-11-3009:42 am,CMC Materials Inc.,CCMP,KLEIN BARBARA ADirector,"6,625",$152.05,"$1,007,347","23,454(Direct)",View
+75,2020-11-25Sale,2020-11-3009:46 am,TUCOWS INC,TCX,Johannson Jessica Sybil-LynneVP,"1,410",$72.3,"$101,937","1,410(Direct)",View
+76,2020-11-27Sale,2020-11-3010:04 am,U S PHYSICAL THERAPY INC,USPH,Harris Bernard A JrDirector,"5,000",$107,"$535,000","17,622(Direct)",View
+77,2020-11-25Sale,2020-11-3010:25 am,BUCKLE INC,BKE,APPLEGATE DIANE LVP,"15,088",$28.54,"$430,610","15,088(IndirectDirect)",View
+78,2020-11-27Sale,2020-11-3010:31 am,TransDigm Group INC,TDG,Howley W NicholasChairman,"20,000",$597.14,"$11,942,709",0(Indirect),View
+79,2020-11-25Sale,2020-11-3010:47 am,Co-Diagnostics Inc.,CODX,BENSON REED LCFO,"89,524",$10.5,"$940,002",0(Direct),View
+80,2020-11-27Sale,2020-11-3010:54 am,NOVAGOLD RESOURCES INC,NG,Lang Gregory A.CEO,"90,177",$9.73,"$877,422","8,187(IndirectDirect)",View
+81,2020-11-25Sale,2020-11-3011:03 am,CARLISLE COMPANIES INC,CSL,Roche Robert M.CFO,400,$150,"$60,000","22,526(Direct)",View
+82,2020-11-27Sale,2020-11-3011:20 am,II-VI INC,IIVI,Schwendinger Jo AnneChief Legal & Compl. Officer,"12,960",$66.56,"$862,671","42,029(IndirectDirect)",View
+83,2020-11-25Sale,2020-11-3011:47 am,ROGERS CORP,ROG,Wallace Peter CDirector,"4,600",$153.91,"$708,002","8,332(Direct)",View
+84,2003-11-25Sale,2020-11-3012:26 pm,DONEGAL GROUP INC,DGICA,JACOBSEN JEFFREY ALANVP,600,$14.5,"$8,700",100(IndirectDirect),View
+85,2020-11-25Sale,2020-11-3012:28 pm,DEERE & CO,DE,Jones Mary K.W.VP,"27,800",$257.43,"$7,156,557","59,255(Direct)",View
+86,2020-11-25Sale,2020-11-301:21 pm,CIT GROUP INC,CIT,SPERLING EDWARD KVP,"4,150",$35.09,"$145,606","13,112(Direct)",View
+87,2020-11-27Sale,2020-11-301:56 pm,FRANKLIN RESOURCES INC,BEN,Byerwalter Mariann HDirector,"1,827",$22.16,"$40,486","7,361(Indirect)",View
+88,2020-11-25Sale,2020-11-302:01 pm,NVR INC,NVR,SAVILLE PAUL CCEO,850,$4180.01,"$3,553,008","112,770(IndirectDirect)",View
+89,2020-11-25Sale,2020-11-302:20 pm,FUEL TECH Inc,FTEK,BAILEY BETTYE J10% Owner,"42,028",$4.7399,"$199,209","4,286,945(Direct)",View
+90,2020-11-30Sale,2020-11-302:21 pm,AMPHENOL CORP,APH,Gu RichardVP,"18,000",$131.06,"$2,359,155","1,000(Direct)",View
+91,2020-11-25Sale,2020-11-302:36 pm,UNIVERSAL ELECTRONICS INC,UEIC,ZINSER EDWARD KDirector,"5,000",$52.11,"$260,546","22,500(Direct)",View
+92,2020-11-27Sale,2020-11-303:18 pm,SCHWAB CHARLES CORP,SCHW,SCHWAB CHARLES RChairman,"98,870",$49.81,"$4,924,636","74,370,368(Indirect)",View
+93,2020-11-25Sale,2020-11-303:19 pm,PDC ENERGY Inc,PDCE,Lauck LanceVP,"3,498",$18.5,"$64,716",0(Indirect),View
+94,2020-11-25Sale,2020-11-303:27 pm,AGCO CORP,AGCO,BENSON P GEORGEDirector,"4,000",$93.08,"$372,327","14,271(Direct)",View
+95,2020-11-25Sale,2020-11-303:37 pm,IDEX CORP,IEX,MROZEK ERNEST JDirector,"3,530",$190.77,"$673,417","10,555(Direct)",View
+96,2020-11-27Sale,2020-11-303:42 pm,CENTRUS ENERGY CORP,LEU,SCOTT DENNIS JOHNSVP GEN COUN CCO & CORP SECY,"7,500",$12.56,"$94,216",0(Direct),View
+97,2020-11-27Sale,2020-11-303:56 pm,HESKA CORP,HSKA,Aroesty Jason DVP,"13,334",$126.86,"$1,691,517",0(Direct),View
+98,2020-11-25Sale,2020-11-303:57 pm,CHART INDUSTRIES INC,GTLS,KRABLIN STEVEN WChairman,"5,000",$107.32,"$536,600","20,556(Direct)",View

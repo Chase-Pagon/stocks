@@ -1,0 +1,185 @@
+,TransactionDate,ReportedDateTime,Company,Symbol,InsiderRelationship,SharesTraded,AveragePrice,TotalAmount,SharesOwned,Filing
+1,2020-12-22Sale,2020-12-234:00 pm,Great Lakes Dredge & Dock CORP,GLDD,Simonelli David ECOO,"4,498",$12.5,"$56,245","373,857(Direct)",View
+2,2020-12-22Sale,2020-12-234:01 pm,APPLIED OPTOELECTRONICS Inc,AAOI,Murry Stefan J.CFO,"3,000",$9.0026,"$27,008","92,230(Direct)",View
+3,2020-12-21Sale,2020-12-234:02 pm,AMERICAN PUBLIC EDUCATION INC,APEI,Landon Timothy JDirector,350,$34.67,"$12,134","16,896(Direct)",View
+4,2020-12-21Sale,2020-12-234:04 pm,ABIOMED INC,ABMD,Greenfield Andrew JVP Chief Commercial Officer,"7,156",$295.87,"$2,117,276","31,930(IndirectDirect)",View
+5,2020-12-21Sale,2020-12-234:04 pm,Stitch Fix Inc.,SFIX,Darling ScottChief Legal Officer & Secr.,"4,243",$69.75,"$295,949","69,697(Direct)",View
+6,2020-12-22Sale,2020-12-234:05 pm,Schrodinger Inc.,SDGR,Lynton MichaelDirector,"8,334",$85,"$708,390",0(Direct),View
+7,2020-12-22Sale,2020-12-234:05 pm,Schrodinger Inc.,SDGR,Brauner ShaneSee Remarks,"2,000",$85,"$170,000","24,867(Direct)",View
+8,2020-12-22Sale,2020-12-234:05 pm,Medpace Holdings Inc.,MEDP,Medpace Investors LLC10% Owner,"33,260",$140.01,"$4,656,732","6,522,547(Direct)",View
+9,2020-12-21Sale,2020-12-234:05 pm,Nuverra Environmental Solutions Inc.,NES,Gates Capital Management L.P.Gates Capital Management GP LLCGates Capital Management Inc.Gates Jeffrey L10% Owner,"335,811",$4.3114,"$1,447,818","6,721,106(Direct)",View
+10,2020-12-22Sale,2020-12-234:05 pm,Medpace Holdings Inc.,MEDP,Troendle August J.CEO10% Owner,"33,260",$140.01,"$4,656,732","6,522,547(IndirectDirect)",View
+11,2020-12-23Sale,2020-12-234:06 pm,GLOBE LIFE Inc,GL,DICHIARO STEVEN JOHNExec. Officer of Principal Sub,"1,500",$93.33,"$139,995","15,969(IndirectDirect)",View
+12,2020-12-22Sale(M),2020-12-234:06 pm,HUMANIGEN INC,HGEN,NOMIS BAY Ltd10% Owner,"50,000",$1,"$50,000","6,357,433(Direct)",View
+13,2020-12-21Sale,2020-12-234:07 pm,Stitch Fix Inc.,SFIX,Spaulding ElizabethPresident,"5,020",$69.75,"$350,145","17,494(IndirectDirect)",View
+14,2020-12-22Sale,2020-12-234:07 pm,Chewy Inc.,CHWY,Bowman StacyPrincipal Accounting Officer,"10,583",$108.34,"$1,146,562","132,182(Direct)",View
+15,2020-12-21Sale,2020-12-234:10 pm,Vericel Corp,VCEL,Halpin MichaelCOO,"30,000",$26.28,"$788,400","2,279(Direct)",View
+16,2020-12-21Sale,2020-12-234:10 pm,Chewy Inc.,CHWY,Helfrick SusanGeneral Counsel,"22,844",$103.41,"$2,362,224","34,268(IndirectDirect)",View
+17,2020-12-22Sale,2020-12-234:11 pm,Rapid7 Inc.,RPD,Schodorf Thomas EDirector,"1,750",$90,"$157,500","23,755(Direct)",View
+18,2020-12-21Sale,2020-12-234:11 pm,Vericel Corp,VCEL,Hopper Jonathan MarkChief Medical Officer,"24,235",$26.54,"$643,159","23,360(Direct)",View
+19,2020-12-21Sale,2020-12-234:12 pm,AMERICAN TOWER CORP,AMT,HORMATS ROBERT DDirector,100,$218.36,"$21,836","5,959(Direct)",View
+20,2020-12-23Sale,2020-12-234:13 pm,3D SYSTEMS CORP,DDD,Johnson Andrew MartinEVP Chief Legal Officer & Sec,"4,000",$11.94,"$47,760","193,501(Direct)",View
+21,2020-12-22Sale,2020-12-234:14 pm,CHURCHILL DOWNS Inc,CHDN,Mudd William ECOO,"6,900",$200.64,"$1,384,430","259,652(Direct)",View
+22,2020-12-22Sale,2020-12-234:15 pm,INSMED Inc,INSM,Lewis WilliamCEOChairman,"50,000",$36.57,"$1,828,666","164,787(Direct)",View
+23,2020-12-21Sale,2020-12-234:15 pm,Bally's Corp,BALY,ROLLINS JEFFREY WDirector,"5,000",$44.48,"$222,410","73,695(IndirectDirect)",View
+24,2020-12-22Sale,2020-12-234:17 pm,QUALYS Inc,QLYS,BERGERON SANDRA E.Director,781,$125,"$97,627","25,617(Direct)",View
+25,2020-12-21Sale,2020-12-234:17 pm,RealPage Inc.,RP,Glover Ashley ChaffinPresident,"1,029",$89,"$91,581","139,735(Direct)",View
+26,2020-12-21Sale,2020-12-234:22 pm,PagerDuty Inc.,PD,Giamalis StaceyVP,"12,000",$45.15,"$541,777","72,189(Direct)",View
+27,2020-12-22Sale,2020-12-234:23 pm,HERON THERAPEUTICS Inc,HRTX,MANHARD KIMBERLYVP,"10,000",$20,"$200,000",0(Direct),View
+28,2020-12-21Sale,2020-12-234:23 pm,AtriCure Inc.,ATRC,CARREL MICHAEL HCEO,"74,751",$56,"$4,186,305","504,504(Direct)",View
+29,2020-12-22Sale,2020-12-234:23 pm,GAMCO INVESTORS Inc,GBL,GABELLI MARIO JCEOChairman10% Owner,"41,845",$17.81,"$745,269","1,950,308(IndirectDirect)",View
+30,2020-12-21Sale,2020-12-234:24 pm,GT Biopharma Inc.,GTBP,Weldon Steven WFormer Officer and Director,"183,700",$0.34206,"$62,837","3,720,000(Direct)",View
+31,2020-12-21Sale,2020-12-234:27 pm,NAPCO SECURITY TECHNOLOGIES INC,NSSC,SOLOWAY RICHARDCEO10% Owner,"334,961",$24.7,"$8,273,537","3,664,831(Direct)",View
+32,2020-12-21Sale,2020-12-234:28 pm,Clearside Biomedical Inc.,CLSD,LASEZKAY GEORGE MCEO,"3,330",$2.07,"$6,893","299,359(Direct)",View
+33,2020-12-22Sale,2020-12-234:30 pm,Mimecast Ltd,MIME,Bender Alex E.T.VP,"1,400",$55,"$77,000","2,586(Direct)",View
+34,2020-12-22Sale,2020-12-234:30 pm,AXON ENTERPRISE Inc,AAXN,SMITH PATRICK WCEO,"98,000",$130,"$12,740,220","368,310(Direct)",View
+35,2020-12-21Sale,2020-12-234:31 pm,BLACKBERRY Ltd,BB,Wilson Mark GeorgeChief Marketing Officer,"11,042",$7.08,"$78,177","132,378(Direct)",View
+36,2020-12-21Sale,2020-12-234:32 pm,Chewy Inc.,CHWY,Marte Mario JesusCFO,"45,692",$100.4,"$4,587,477","71,026(Direct)",View
+37,2020-12-22Sale,2020-12-234:33 pm,Twist Bioscience Corp,TWST,Leproust Emily M.CEO,"5,000",$160.12,"$800,583","433,659(Direct)",View
+38,2020-12-21Sale,2020-12-234:33 pm,Chewy Inc.,CHWY,Singh SumitCEO,"5,000",$100.4,"$502,000","17,845(IndirectDirect)",View
+39,2020-12-22Sale,2020-12-234:34 pm,AUTOZONE INC,AZO,RHODES WILLIAM C IIICEOChairman,"11,350",$1188.57,"$13,490,265",0(IndirectDirect),View
+40,2020-12-22Sale,2020-12-234:35 pm,Medtronic plc,MDT,Lerman Bradley EVP,"2,605",$115.56,"$301,034","51,543(Direct)",View
+41,2020-12-22Sale,2020-12-234:36 pm,PELOTON INTERACTIVE Inc,PTON,Cortese ThomasCOO,"150,000",$157.3,"$23,594,412",413(Direct),View
+42,2020-05-05Sale(A),2020-12-234:40 pm,CHESAPEAKE ENERGY CORP,CHKAQ,WEBB JAMES RVP,"1,432",$2.052,"$2,938","3,594(Direct)",View
+43,2020-12-21Sale,2020-12-234:41 pm,GrubHub Inc.,GRUB,DeWitt AdamCFO,"1,500",$72.31,"$108,465","53,615(Direct)",View
+44,2020-12-22Sale,2020-12-234:42 pm,CHESAPEAKE ENERGY CORP,CHKAQ,WEBB JAMES RVP,"1,623",$1.964,"$3,188","1,971(Direct)",View
+45,2020-12-22Sale,2020-12-234:42 pm,LAM RESEARCH CORP,LRCX,ARCHER TIMOTHYCEO,"16,381",$479.43,"$7,853,543","79,359(IndirectDirect)",View
+46,2020-12-22Sale,2020-12-234:43 pm,Alteryx Inc.,AYX,Knudsen DerekCTO,"1,238",$129.31,"$160,086","16,078(Direct)",View
+47,2020-12-22Sale,2020-12-234:43 pm,CIENA CORP,CIEN,HAMILTON RICKVP,"11,575",$52.03,"$602,299","84,023(Direct)",View
+48,2020-12-21Sale,2020-12-234:43 pm,NEXTGEN HEALTHCARE Inc,NXGN,Frantz John RCEO,"50,000",$17.85,"$892,665","516,359(Direct)",View
+49,2020-12-22Sale,2020-12-234:46 pm,LGI Homes Inc.,LGIH,Smith Steven RandalDirector,"7,000",$113.78,"$796,480","2,522(IndirectDirect)",View
+50,2020-12-22Sale,2020-12-234:46 pm,PRICE T ROWE GROUP INC,TROW,Higginbotham Robert C.T.VP,"6,581",$146.78,"$965,934","76,847(Direct)",View
+51,2020-12-21Sale,2020-12-234:49 pm,Square Inc.,SQ,Ahuja AmritaCFO,"8,707",$240.45,"$2,093,598","158,852(Direct)",View
+52,2020-12-21Sale,2020-12-234:51 pm,Clovis Oncology Inc.,CLVS,IVERS-READ GILLIAN CSee Remarks,829,$5.68,"$4,709","233,086(Direct)",View
+53,2020-12-21Sale,2020-12-234:52 pm,Clovis Oncology Inc.,CLVS,Rolfe LindseySee Remarks,"1,728",$5.68,"$9,815","58,275(Direct)",View
+54,2020-12-21Sale,2020-12-235:00 pm,Pure Storage Inc.,PSTG,Mountford Paul SCOO,"66,986",$23.52,"$1,575,625","371,083(Direct)",View
+55,2020-12-21Sale,2020-12-235:00 pm,Okta Inc.,OKTA,McKinnon ToddCEO,"8,740",$274.62,"$2,400,147",0(Direct),View
+56,2020-12-21Sale,2020-12-235:00 pm,SMART Global Holdings Inc.,SGH,Pacheco Jack ACFOCOO,"2,983",$32.93,"$98,227","99,172(Direct)",View
+57,2020-12-21Sale,2020-12-235:00 pm,Akoustis Technologies Inc.,AKTS,Houlden RohanChief Product Officer,880,$11.07,"$9,742","236,197(Direct)",View
+58,2020-12-21Sale,2020-12-235:01 pm,Akoustis Technologies Inc.,AKTS,Boller KennethCFO,"1,900",$11.05,"$20,995","74,600(Direct)",View
+59,2020-12-21Sale,2020-12-235:01 pm,Square Inc.,SQ,Dorsey JackCEOChairman10% Owner,"100,000",$238.86,"$23,885,834",0(Indirect),View
+60,2020-12-22Sale,2020-12-235:02 pm,EVERTEC Inc.,EVTC,Schuessler Morgan MCEO,"72,784",$39.74,"$2,892,436","131,673(Direct)",View
+61,2020-12-22Sale,2020-12-235:02 pm,SPLUNK INC,SPLK,St. Ledger SusanPresident,"1,699",$174.95,"$297,240","137,478(Direct)",View
+62,2020-12-21Sale,2020-12-235:03 pm,LIVEPERSON INC,LPSN,Carlough DarylVP,"2,736",$65,"$177,840","42,177(Direct)",View
+63,2020-12-21Sale,2020-12-235:03 pm,SPLUNK INC,SPLK,SMITH GRAHAMDirector,"1,000",$175,"$175,000","31,917(Direct)",View
+64,2020-12-21Sale,2020-12-235:03 pm,Medallia Inc.,MDLA,Stretch LeslieCEO,"117,350",$34.89,"$4,094,673","1,242,463(Direct)",View
+65,2020-12-22Sale,2020-12-235:04 pm,NIKE Inc.,NKE,Krane Hilary KCAO,"41,500",$142.84,"$5,928,010","150,185(IndirectDirect)",View
+66,2020-12-18Sale,2020-12-235:05 pm,Workhorse Group Inc.,WKHS,Chess Raymond JosephDirector,"5,000",$21.05,"$105,250","136,243(Direct)",View
+67,2020-12-21Sale,2020-12-235:07 pm,Datadog Inc.,DDOG,Kopits LaszloGeneral Counsel,"31,100",$108.52,"$3,375,042","111,745(Direct)",View
+68,2020-12-22Sale,2020-12-235:08 pm,Datadog Inc.,DDOG,De Madre ArmelleChief People Officer,"3,750",$110.14,"$413,022","30,898(Direct)",View
+69,2020-12-21Sale,2020-12-235:08 pm,Medallia Inc.,MDLA,Duan Jimmy C.Chief Customer Officer and EVP,"10,000",$34.39,"$343,878","216,316(Direct)",View
+70,2020-12-21Sale,2020-12-235:10 pm,Avantor Inc.,AVTR,Bramwell JamesVP,"10,020",$27.14,"$271,943","117,768(Direct)",View
+71,2020-12-22Sale,2020-12-235:14 pm,IROBOT CORP,IRBT,FINNEY ELISHA WDirector,"2,827",$85,"$240,295","8,276(Direct)",View
+72,2020-12-23Sale,2020-12-235:15 pm,AUTOZONE INC,AZO,GILES WILLIAM TCFO,"13,600",$1190.96,"$16,196,992","5,471(IndirectDirect)",View
+73,2020-12-21Sale,2020-12-235:16 pm,Progyny Inc.,PGNY,Bealer JenniferVP,"1,876",$41.19,"$77,273","65,606(Direct)",View
+74,2020-12-23Sale,2020-12-235:20 pm,Cardlytics Inc.,CDLX,Grimes Scott D.Director,"2,000",$145.52,"$291,038","244,908(IndirectDirect)",View
+75,2020-12-22Sale,2020-12-235:22 pm,Invitae Corp,NVTA,George Sean ECEO,"3,675",$53.06,"$194,995","631,018(Direct)",View
+76,2020-12-21Sale,2020-12-235:24 pm,Invitae Corp,NVTA,Myers Jason W.President,"224,965",$51.55,"$11,597,141","584,749(Direct)",View
+77,2020-12-23Sale,2020-12-235:27 pm,FEDERAL AGRICULTURAL MORTGAGE CORP,AGM,ZIONS BANCORPORATION NATIONAL ASSOCIATION10% Owner,"10,000",$73.43,"$734,280","305,000(Direct)",View
+78,2020-12-22Sale,2020-12-235:27 pm,ZUORA INC,ZUO,Pileggi JenniferVP,"10,000",$14.01,"$140,128","20,095(IndirectDirect)",View
+79,2020-12-22Sale,2020-12-235:27 pm,Ping Identity Holding Corp.,PING,DURAND ANDRE WONGCEO,"27,411",$30.07,"$824,158","419,669(Direct)",View
+80,2020-12-21Sale,2020-12-235:28 pm,ROCKWELL MEDICAL Inc,RMTI,Richmond David S.RBI Private Investment I LLCRBI Private Investment II LLCRBI OPPORTUNITIES FUND LLCRBI OPPORTUNITIES FUND II LLCRBI PI Manager LLCRichmond Brothers 401(k) Profit Sharing PlanRichmond Brothers Inc.Curfman Matthew J.10% Owner,"42,450",$1.03,"$43,723","1,433,309(Indirect)",View
+81,2020-12-21Sale,2020-12-235:35 pm,CARVANA CO.,CVNA,JENKINS MARK W.CFO,"20,000",$283.26,"$5,665,100","33,820(Direct)",View
+82,2020-12-21Sale,2020-12-235:35 pm,BridgeBio Pharma Inc.,BBIO,SCHELLER RICHARD HDirector,"60,401",$65.32,"$3,945,137","45,860(Direct)",View
+83,2020-12-21Sale,2020-12-235:36 pm,CARVANA CO.,CVNA,HUSTON BENJAMIN E.COO,"20,000",$283.24,"$5,664,700","33,828(Direct)",View
+84,2020-12-21Sale,2020-12-235:40 pm,Kodiak Sciences Inc.,KOD,EHRLICH JASONSee Remarks,"6,950",$144.55,"$1,004,610","42,843(Direct)",View
+85,2020-12-22Sale,2020-12-235:41 pm,e.l.f. Beauty Inc.,ELF,Baruch Richard F JrSee Remarks,"17,100",$23.01,"$393,470","179,611(Direct)",View
+86,2020-12-23Sale,2020-12-235:42 pm,SEMTECH CORP,SMTC,WILSON JOHN MICHAELVP,"17,888",$71.55,"$1,279,938","40,684(Direct)",View
+87,2020-12-22Sale,2020-12-235:42 pm,Fortinet Inc.,FTNT,Whittle JohnVP,"18,155",$150,"$2,723,250",0(Direct),View
+88,2020-02-10Sale(A),2020-12-235:44 pm,Fortinet Inc.,FTNT,Whittle JohnVP,"7,415",$117.51,"$871,331","8,684(Direct)",View
+89,2020-12-21Sale,2020-12-235:45 pm,AMICUS THERAPEUTICS Inc,FOLD,Quimi DaphneCFO,"5,000",$24.09,"$120,473","244,344(Direct)",View
+90,2020-12-22Sale,2020-12-235:52 pm,Upland Software Inc.,UPLD,Hill Michael DouglassCFO,"7,110",$46.93,"$333,674","250,319(Direct)",View
+91,2020-12-23Sale,2020-12-235:55 pm,Dolby Laboratories Inc.,DLB,Baker GilesVP,"21,850",$94,"$2,053,900","32,376(Direct)",View
+92,2020-12-21Sale,2020-12-235:58 pm,CURO Group Holdings Corp.,CURO,Gayhardt DonaldCEO,"15,000",$14.79,"$221,826","773,565(Direct)",View
+93,2020-12-22Sale,2020-12-236:06 pm,Vir Biotechnology Inc.,VIR,Virgin HerbertEVP Research & CSO,"3,805",$31.19,"$118,683","23,700(Direct)",View
+94,2020-12-22Sale,2020-12-236:06 pm,Upland Software Inc.,UPLD,Favaron Rodney Cco-President and CCO,"25,880",$46.95,"$1,215,130","130,786(Direct)",View
+95,2020-12-22Sale,2020-12-236:06 pm,LIVEPERSON INC,LPSN,Carlough DarylVP,"2,735",$67.5,"$184,613","42,177(Direct)",View
+96,2020-12-21Sale,2020-12-236:07 pm,Translate Bio Inc.,TBIO,FORMELA JEAN FRANCOISDirector,"139,101",$25.25,"$3,511,798","43,940(Indirect)",View
+97,2020-12-22Sale,2020-12-236:07 pm,Upland Software Inc.,UPLD,Mattox TimothyCOO,"12,982",$46.93,"$609,289","474,045(Direct)",View
+98,2020-12-22Sale,2020-12-236:08 pm,SYNOPSYS INC,SNPS,Kankanwadi SudhindraCAO,"2,028",$257.12,"$521,433","11,113(Direct)",View
+99,2020-12-22Sale,2020-12-236:09 pm,Upland Software Inc.,UPLD,MCDONALD JOHN TCEO,"13,622",$46.92,"$639,139","1,639,915(IndirectDirect)",View
+100,2020-12-21Sale,2020-12-236:12 pm,Arista Networks Inc.,ANET,McCool John FChief Platform Officer,83,$283.36,"$23,519",41(IndirectDirect),View
+101,2020-12-21Sale,2020-12-236:13 pm,Anterix Inc.,ATEX,OBRIEN MORGAN EChairman,"31,667",$40.17,"$1,272,063","94,250(Direct)",View
+102,2020-12-22Sale,2020-12-236:15 pm,ORAGENICS INC,OGEN,KOSKI ROBERT CDirector,"310,000",$0.4272,"$132,432","776,483(IndirectDirect)",View
+103,2020-12-21Sale,2020-12-236:16 pm,Walmart Inc.,WMT,WALTON S ROBSONDirector10% Owner,"2,030,000",$144.92,"$294,192,211","378,965,952(IndirectDirect)",View
+104,2020-12-21Sale,2020-12-236:19 pm,Walmart Inc.,WMT,WALTON JIM C10% Owner,"2,030,000",$144.92,"$294,192,211","378,965,952(IndirectDirect)",View
+105,2020-12-23Sale,2020-12-236:21 pm,ETHAN ALLEN INTERIORS INC,ETH,Grow Daniel M.VP,"1,500",$20.02,"$30,030","4,214(IndirectDirect)",View
+106,2020-12-23Sale,2020-12-236:22 pm,SIMULATIONS PLUS INC,SLP,WOLTOSZ WALTER SWOLTOSZ VIRGINIA EDirector10% Owner,"24,000",$72.71,"$1,745,040","4,659,614(Direct)",View
+107,2020-12-22Sale,2020-12-236:24 pm,Research Solutions Inc.,RSSS,BRISTOL INVESTMENT FUND LTD10% Owner,"390,000",$2.2688,"$884,832","2,883,931(Direct)",View
+108,2020-12-21Sale,2020-12-236:25 pm,Walmart Inc.,WMT,WALTON ALICE L10% Owner,"2,030,000",$144.92,"$294,192,211","378,965,952(IndirectDirect)",View
+109,2020-12-22Sale,2020-12-236:28 pm,Facebook Inc,FB,Newstead JenniferVP,310,$271.26,"$84,091","2,192(Direct)",View
+110,2020-12-21Sale,2020-12-236:30 pm,PRICESMART INC,PSMT,Price Philanthropies Foundation10% Owner,"20,000",$89.91,"$1,798,120","4,125,055(Direct)",View
+111,2020-12-22Sale,2020-12-236:30 pm,VEEVA SYSTEMS INC,VEEV,CODD RONALD E FDirector,"20,000",$288.17,"$5,763,408",277(IndirectDirect),View
+112,2020-12-21Sale,2020-12-236:31 pm,PRICESMART INC,PSMT,PRICE ROBERT EDirector10% Owner,"20,000",$89.91,"$1,798,120","1,387,402(IndirectDirect)",View
+113,2020-12-21Sale,2020-12-236:32 pm,LendingClub Corp,LC,Sanborn ScottCEO,"11,992",$8.3392,"$100,004","746,055(Direct)",View
+114,2020-12-21Sale,2020-12-236:34 pm,PACIFIC BIOSCIENCES OF CALIFORNIA Inc,PACB,Hunkapiller MichaelDirector,"700,000",$24.36,"$17,054,044","898,215(Direct)",View
+115,2020-12-21Sale,2020-12-236:35 pm,LendingClub Corp,LC,Kay ValerieChief Capital Officer,"3,618",$8.2923,"$30,002","76,096(Direct)",View
+116,2020-12-21Sale,2020-12-236:35 pm,SKYWORKS SOLUTIONS Inc,SWKS,Durham Karilee AVP,"6,500",$146.41,"$951,678","9,810(Direct)",View
+117,2020-12-21Sale,2020-12-236:40 pm,Facebook Inc,FB,Zuckerberg MarkCEO10% Owner,"44,750",$271.74,"$12,160,446","29,791(Indirect)",View
+118,2020-12-22Sale,2020-12-236:41 pm,ESTABLISHMENT LABS HOLDINGS Inc,ESTA,Dada Santos SalvadorCOO,"3,500",$35.02,"$122,555","131,160(Direct)",View
+119,2020-12-21Sale,2020-12-236:43 pm,Everi Holdings Inc.,EVRI,Simmons DarrenVP,"11,250",$13.28,"$149,438","31,453(Direct)",View
+120,2020-12-22Sale,2020-12-236:48 pm,Facebook Inc,FB,Zuckerberg MarkCEO10% Owner,"44,750",$267.89,"$11,988,264","25,041(Indirect)",View
+121,2020-12-22Sale,2020-12-236:50 pm,Progyny Inc.,PGNY,Payson NormanDirector,"10,000",$41.09,"$410,866","520,000(IndirectDirect)",View
+122,2020-12-22Sale,2020-12-236:54 pm,G1 Therapeutics Inc.,GTHX,RUDNICK SETHDirector,"32,092",$20.27,"$650,458","6,190(Indirect)",View
+123,2020-12-21Sale,2020-12-236:55 pm,ENSIGN GROUP INC,ENSG,Daniels Lee ADirector,983,$74.51,"$73,243","41,754(Direct)",View
+124,2020-12-21Sale,2020-12-236:56 pm,PINTEREST Inc,PINS,Flores ChristineGeneral Counsel,"7,615",$70.94,"$540,235","294,872(Direct)",View
+125,2020-12-21Sale,2020-12-236:58 pm,Interactive Brokers Group Inc.,IBKR,Peterffy ThomasChairman,"28,800",$58.95,"$1,697,652","9,481,911(Direct)",View
+126,2020-12-21Sale,2020-12-236:59 pm,PINTEREST Inc,PINS,Morgenfeld Todd RCFO,"26,300",$70.95,"$1,865,866","659,005(Direct)",View
+127,2020-12-21Sale,2020-12-237:00 pm,Adaptive Biotechnologies Corp,ADPT,BENZENO SHARONChief Business Development Off,417,$59.14,"$24,661",0(Direct),View
+128,2020-12-21Sale,2020-12-237:00 pm,Adaptive Biotechnologies Corp,ADPT,Pellini Michael JDirector,"25,000",$60,"$1,500,000",0(Direct),View
+129,2020-12-22Sale,2020-12-237:00 pm,Adaptive Biotechnologies Corp,ADPT,HILL NANCY LOUISEVP,"57,000",$63.71,"$3,631,702","10,000(IndirectDirect)",View
+130,2020-12-21Sale,2020-12-237:00 pm,Adaptive Biotechnologies Corp,ADPT,RUBINSTEIN JULIEPresident,"45,000",$62.47,"$2,810,983",0(Direct),View
+131,2020-12-22Sale,2020-12-237:01 pm,ZoomInfo Technologies Inc.,ZI,Hyzer Peter CameronCFO,"90,950",$45.32,"$4,122,298",0(Direct),View
+132,2020-12-22Sale,2020-12-237:03 pm,Iridium Communications Inc.,IRDM,DESCH MATTHEW JCEO,"75,000",$38.11,"$2,858,250","653,453(Direct)",View
+133,2020-12-21Sale,2020-12-237:04 pm,PennyMac Financial Services Inc.,PFSI,KURLAND STANFORD LDirector10% Owner,"31,000",$67.19,"$2,082,778","7,626,990(IndirectDirect)",View
+134,2020-12-21Sale,2020-12-237:04 pm,PINTEREST Inc,PINS,Yang Tseli LilyCAO,"11,008",$69.95,"$770,037","69,994(Direct)",View
+135,2020-12-22Sale,2020-12-237:05 pm,MERCURY SYSTEMS INC,MRCY,ASLETT MARKCEO,"9,800",$86.33,"$846,005","261,658(Direct)",View
+136,2020-12-21Sale,2020-12-237:06 pm,TWILIO INC,TWLO,Lawson JeffCEO10% Owner,"49,500",$363.78,"$18,007,065","62,528(IndirectDirect)",View
+137,2020-08-10Sale(A),2020-12-237:11 pm,INFINERA Corp,INFN,MILBURY PAUL JDirector,"24,185",$8.0789,"$195,388","101,915(Direct)",View
+138,2020-12-21Sale,2020-12-237:11 pm,Cara Therapeutics Inc.,CARA,Goncalves JoanaChief Medical Officer,"2,000",$15,"$30,000","27,373(Direct)",View
+139,2020-08-10Sale(A),2020-12-237:12 pm,INFINERA Corp,INFN,Welch David FDirector,"125,000",$8.0657,"$1,008,212","1,466,451(Indirect)",View
+140,2020-12-23Sale,2020-12-237:23 pm,Lyft Inc.,LYFT,Lawee DavidDirector,"177,077",$50.16,"$8,882,607","11,321,870(IndirectDirect)",View
+141,2020-12-23Sale,2020-12-237:27 pm,Walt Disney Co,DIS,WOODFORD BRENTVP,"1,062",$172.96,"$183,684","34,620(IndirectDirect)",View
+142,2020-12-22Sale,2020-12-237:28 pm,Walt Disney Co,DIS,BRAVERMAN ALAN NVP,"1,187",$172.96,"$205,304","98,922(IndirectDirect)",View
+143,2020-12-23Sale,2020-12-237:28 pm,QUANTUM CORP,QMCO,MacPherson Regan JChief Legal&Compliance Officer,"8,992",$6.3657,"$57,240","53,831(Direct)",View
+144,2020-12-22Sale,2020-12-237:28 pm,Walt Disney Co,DIS,Mucha Zenia B.SEVP & Chief Comms Officer,797,$172.96,"$137,849","19,620(IndirectDirect)",View
+145,2020-12-23Sale,2020-12-237:29 pm,QUANTUM CORP,QMCO,Moorehead Lewis W.CAO,"13,312",$6.3657,"$84,740","144,650(Direct)",View
+146,2020-12-22Sale,2020-12-237:39 pm,SVMK Inc.,SVMK,Hale Thomas EPresident,"90,834",$25.01,"$2,271,731","370,076(Direct)",View
+147,2020-12-22Sale,2020-12-237:41 pm,SVMK Inc.,SVMK,Blum Lora DChief Legal Officer & Secty,"8,333",$24.85,"$207,075","90,278(Direct)",View
+148,2020-12-21Sale,2020-12-237:43 pm,Acamar Partners Acquisition Corp.,ACAM,GLAZER CAPITAL LLCGLAZER PAUL J10% Owner,"95,451",$10.45,"$997,743","3,982,238(Indirect)",View
+149,2020-12-21Sale,2020-12-237:44 pm,Jiya Acquisition Corp.,JYAC,GLAZER CAPITAL LLCGLAZER PAUL J10% Owner,"127,772",$10.35,"$1,323,078","1,052,046(Indirect)",View
+150,2020-12-21Sale,2020-12-237:44 pm,Pennant Group Inc.,PNTG,Christensen Christopher R.Director,"48,885",$59.96,"$2,930,970","569,448(IndirectDirect)",View
+151,2020-12-21Sale,2020-12-237:45 pm,FAST Acquisition Corp.,FST,GLAZER CAPITAL LLCGLAZER PAUL J10% Owner,"2,965",$10.18,"$30,187","2,270,350(Indirect)",View
+152,2020-12-21Sale,2020-12-237:51 pm,CARVANA CO.,CVNA,GARCIA ERNEST C. IIVERDE INVESTMENTS Inc10% Owner,"24,330",$267.02,"$6,496,613",0(IndirectDirect),View
+153,2020-12-21Sale,2020-12-237:52 pm,CARVANA CO.,CVNA,GARCIA ERNEST C. IIVERDE INVESTMENTS Inc10% Owner,"25,670",$275.87,"$7,081,687",0(IndirectDirect),View
+154,2020-12-22Sale,2020-12-237:53 pm,CARVANA CO.,CVNA,GARCIA ERNEST C. IIVERDE INVESTMENTS Inc10% Owner,"50,000",$285.7,"$14,284,888",0(IndirectDirect),View
+155,2020-12-22Sale,2020-12-238:03 pm,SALESFORCE.COM Inc,CRM,Allanson JoeCAO,313,$229.36,"$71,790","31,416(Direct)",View
+156,2020-12-21Sale,2020-12-238:03 pm,Morphic Holding Inc.,MORF,Tipirneni Praveen P.CEO,"2,782",$35.04,"$97,484","3,813(IndirectDirect)",View
+157,2020-12-22Sale,2020-12-238:04 pm,SALESFORCE.COM Inc,CRM,Harris ParkerCTO,"1,200",$229.36,"$275,233","65,145(IndirectDirect)",View
+158,2020-12-22Sale,2020-12-238:06 pm,Cloudera Inc.,CLDR,FRANKOLA JIMCFO,"158,453",$14.69,"$2,327,995","1,300,367(Direct)",View
+159,2020-12-22Sale,2020-12-238:07 pm,SALESFORCE.COM Inc,CRM,Hawkins Mark JCFO,"1,018",$229.36,"$233,489","14,037(Direct)",View
+160,2020-12-21Sale,2020-12-238:07 pm,KRATOS DEFENSE & SECURITY SOLUTIONS Inc,KTOS,Lund Deanna HCFO,"9,548",$25.45,"$243,006","196,076(Direct)",View
+161,2020-12-22Sale,2020-12-238:09 pm,SALESFORCE.COM Inc,CRM,Tallapragada SrinivasCEO,840,$229.36,"$192,663","45,809(Direct)",View
+162,2020-12-22Sale,2020-12-238:11 pm,SALESFORCE.COM Inc,CRM,Taylor Bret StevenCOO,"1,151",$229.36,"$263,994","946,805(IndirectDirect)",View
+163,2020-12-21Sale,2020-12-238:11 pm,Retail Value Inc.,RVI,Luxor Capital Group LPLUXOR CAPITAL PARTNERS OFFSHORE LTDLuxor Capital Partners LPLuxor Wavefront LPLCG HOLDINGS LLC10% Owner,"1,136,679",$13.99,"$15,900,184",0(Indirect),View
+164,2020-12-22Sale,2020-12-238:13 pm,SALESFORCE.COM Inc,CRM,Weaver Amy EPresident and CLO,819,$229.36,"$187,846","21,486(Direct)",View
+165,2020-12-21Sale,2020-12-238:17 pm,Trade Desk Inc.,TTD,Pickles David RandallCTO,"31,049",$934.11,"$29,003,203","48,085(Direct)",View
+166,2020-12-21Sale,2020-12-238:19 pm,Trade Desk Inc.,TTD,Pickles David RandallCTO,"1,247",$958.29,"$1,194,990","46,838(Direct)",View
+167,2020-12-23Sale,2020-12-238:19 pm,Cloudera Inc.,CLDR,Reasoner ScottCAO,"72,424",$15.32,"$1,109,767","75,349(Direct)",View
+168,2020-12-21Sale,2020-12-238:25 pm,KRATOS DEFENSE & SECURITY SOLUTIONS Inc,KTOS,DEMARCO ERIC MCEO,"20,000",$26.23,"$524,568","1,208(IndirectDirect)",View
+169,2020-12-22Sale,2020-12-238:27 pm,Armour Residential REIT Inc.,ARR,Zimmer Jeffrey JCEO,"43,216",$10.57,"$456,970","137,862(IndirectDirect)",View
+170,2020-12-23Sale,2020-12-238:46 pm,Energous Corp,WATT,Patel Rahul G.Director,"6,309",$2.5,"$15,773","9,589(Direct)",View
+171,2020-12-22Sale,2020-12-238:54 pm,Palomar Holdings Inc.,PLMR,Uchida T ChristopherCFO,600,$88.19,"$52,914","36,185(Direct)",View
+172,2020-12-18Sale,2020-12-238:56 pm,GENCO SHIPPING & TRADING LTD,GNKSF,Centerbridge Credit Partners L.P.Centerbridge Credit Partners General Partner L.P.Centerbridge Credit Partners Master L.P.Centerbridge Credit Partners Offshore General Partner L.P.Centerbridge Credit Cayman GP Ltd.Aronson JeffreyCenterbridge Capital Partners II (Cayman) L.P.Centerbridge Capital Partners SBS II (Cayman) L.P.Centerbridge Associates II (Cayman) L.P.10% Owner,"31,980",$7.1531,"$228,757","234,094(Indirect)",View
+173,2020-12-18Sale,2020-12-238:59 pm,GENCO SHIPPING & TRADING LTD,GNKSF,CCP II Cayman GP Ltd.Centerbridge Special Credit Partners II AIV IV (Cayman) L.P.Centerbridge Special Credit Partners General Partner II (Cayman) L.P.CSCP II Cayman GP Ltd.Centerbridge Special Credit Partners General Partner II L.P.Centerbridge Special Credit Partners II L.P.10% Owner,"31,980",$7.1531,"$228,757","234,094(Indirect)",View
+174,2020-12-21Sale,2020-12-239:05 pm,SMARTSHEET INC,SMAR,Barker Geoffrey TDirector,"13,500",$72.64,"$980,632","405,599(Direct)",View
+175,2020-12-21Sale,2020-12-239:09 pm,Lemonade Inc.,LMND,Wininger ShaiDirector10% Owner,"389,395",$121.78,"$47,419,640","3,409,422(IndirectDirect)",View
+176,2020-12-22Sale,2020-12-239:11 pm,EXP World Holdings Inc.,EXPI,Bramble JamesGeneral Counsel,"20,000",$81.45,"$1,629,040",0(Direct),View
+177,2020-12-22Sale,2020-12-239:11 pm,EXP World Holdings Inc.,EXPI,Sanford Glenn DarrelCEOChairman10% Owner,"10,000",$80.7,"$807,039","20,579,014(Direct)",View
+178,2020-12-21Sale,2020-12-239:12 pm,OncoCyte Corp,OCX,KINGSLEY ALFRED DDirector,"42,800",$0.30551,"$13,076","318,503(IndirectDirect)",View
+179,2020-12-22Sale,2020-12-239:30 pm,MTBC Inc.,MTBC,BUSQUET ANNEDirector,"35,000",$9.57,"$334,950","155,350(Direct)",View
+180,2020-12-21Sale,2020-12-239:30 pm,MTBC Inc.,MTBC,HAQ MAHMUD ULChairman,"100,000",$9.5615,"$956,152","4,585,820(Direct)",View
+181,2020-12-22Sale,2020-12-239:30 pm,Checkpoint Therapeutics Inc.,CKPT,GRAY WILLIAM GARRETTCFO,"2,406",$2.7899,"$6,712","357,490(Direct)",View
+182,2020-12-22Sale,2020-12-239:30 pm,Sunrun Inc.,RUN,Bywater DavidCEOCOO,"263,325",$70.1,"$18,458,837","305,719(Direct)",View
+183,2020-12-22Sale,2020-12-239:47 pm,MedMen Enterprises Inc.,MMNFF,Wicklow Capital Inc.DAN TIERNEY & DANIEL V. TIERNEY 2003 TRUSTTierney DanielMilestone Investments LP10% Owner,"2,449,922",$0.16,"$391,988","25,528,546(Indirect)",View
+184,2020-12-21Sale,2020-12-239:52 pm,Denali Therapeutics Inc.,DNLI,Schenkein David PDirector,"30,000",$90.05,"$2,701,582","26,232(IndirectDirect)",View
