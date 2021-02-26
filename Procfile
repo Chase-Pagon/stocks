@@ -1,1 +1,1 @@
-worker: OpenInsiderDetectChanges.py
+worker: python OpenInsiderDetectChanges.py
