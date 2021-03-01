@@ -63,7 +63,7 @@ while True:
         for tr in soup.find_all('tr')[34:134]:
             td = tr.find_all('td')
             date = datetime.strptime(td[1].text, '%Y-%m-%d %H:%M:%S')
-            if date > (datetime.now() + timedelta(hours=3) - timedelta(minutes=11)):
+            if date > (datetime.now() - timedelta(minutes=11)):
                 td = tr.find_all('td')
                 row = [t.text for t in td]
                 open_insider_changes.append(row)
