@@ -7,6 +7,8 @@ from bs4 import BeautifulSoup
 # Import Time (to add a delay between the times the scape runs)
 from datetime import datetime, timedelta
 import time
+from pytz import timezone
+
 
 import pandas as pd
 
@@ -19,6 +21,7 @@ from email import encoders
 
 
 
+eastern = timezone('US/Eastern')
 url = "http://openinsider.com/insider-purchases"
 
 headers = {
@@ -44,7 +47,7 @@ while True:
 
     if curr_hash == last_hash:
         print("Nothing has changed")
-        time.sleep(605)
+        time.sleep(3600)
 
     else:
         print("Sending email now...")
@@ -63,7 +66,7 @@ while True:
         for tr in soup.find_all('tr')[34:134]:
             td = tr.find_all('td')
             date = datetime.strptime(td[1].text, '%Y-%m-%d %H:%M:%S')
-            if date > (datetime.now() - timedelta(minutes=11)):
+            if date > (datetime.now(eastern) - timedelta(minutes=61)):
                 td = tr.find_all('td')
                 row = [t.text for t in td]
                 open_insider_changes.append(row)
