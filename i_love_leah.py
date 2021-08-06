@@ -11,7 +11,7 @@ time_until = '{:02} days, {:02} hours, {:02} minutes, and {:02} seconds'.format(
 port = 587  # For starttls
 smtp_server = "smtp.gmail.com"
 sender_email = "chase.pagon@gmail.com"
-receiver_email = "chase.pagon@gmail.com"
+receiver_email = "leahgriffith123@gmail.com"
 password = "yrhswencdqprrbiv"
 message = """\
 Subject: I love you
@@ -25,3 +25,4 @@ with smtplib.SMTP(smtp_server, port) as server:
     server.starttls()
     server.login(sender_email, password)
     server.sendmail(sender_email, receiver_email, message)
+    server.sendmail(sender_email, 'chase.pagon@gmail.com', message)
