@@ -25,4 +25,3 @@ with smtplib.SMTP(smtp_server, port) as server:
     server.starttls()
     server.login(sender_email, password)
     server.sendmail(sender_email, receiver_email, message)
-    server.sendmail(sender_email, 'chase.pagon@gmail.com', message)
