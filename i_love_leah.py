@@ -1,7 +1,7 @@
 import smtplib
 from datetime import datetime, timedelta
 
-dt_string = '8/10/2021 07:30:00'
+dt_string = '9/13/2021 17:30:00'
 s = (datetime.strptime(dt_string, "%m/%d/%Y %H:%M:%S") - datetime.now()).total_seconds()
 days, remainder = divmod(s, 86400)
 hours, remainder = divmod(remainder, 3600)
